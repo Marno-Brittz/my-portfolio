@@ -7,7 +7,7 @@ author = "Marno Brittz"
 [project.theme]
 variant = "modern"
 
-[project.theme.pallete]
+[project.theme.palette]
 scheme = "slate" # Recruiters appreciate dark mode defaults
 
 [nav]
