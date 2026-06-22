@@ -2,11 +2,13 @@
 site_name = "Marno Brittz | Software Engineer"
 url = "https://marno-brittz.github.io/my-portfolio"
 description = "Mid-Level Mindset Junior Software Engineer | C# • Python • SQL"
-author = "John Doe"
+author = "Marno Brittz"
 
 [project.theme]
 variant = "classic"
-palette = "slate" # Recruiters appreciate dark mode defaults
+
+[project.theme.pallete]
+scheme = "slate" # Recruiters appreciate dark mode defaults
 
 [nav]
 items = [
