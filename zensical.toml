@@ -1,0 +1,24 @@
+[project]
+name = "John Doe | Software Engineer"
+url = "https://johndoe.github.io/portfolio"
+description = "Mid-Level Mindset Junior Software Engineer | C# • Python • SQL"
+author = "John Doe"
+
+[theme]
+name = "zensical"
+palette = "dark" # Recruiters appreciate dark mode defaults
+
+[nav]
+items = [
+    { Home = "index.md" },
+    { "Architecture Lab" = "architecture.md" },
+    { "Full-Stack Showpiece" = "showpiece.md" }
+]
+
+[markdown]
+extensions = [
+    "admonition", 
+    "codehilite",
+    "pymdownx.superfences",
+    "pymdownx.tabbed" # Critical for code comparison tabs
+]
