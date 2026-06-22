@@ -5,7 +5,7 @@ description = "Mid-Level Mindset Junior Software Engineer | C# • Python • SQ
 author = "John Doe"
 
 [project.theme]
-name = "zensical"
+variant = "classic"
 palette = "slate" # Recruiters appreciate dark mode defaults
 
 [nav]
