@@ -6,7 +6,7 @@ author = "John Doe"
 
 [project.theme]
 name = "zensical"
-palette = "dark" # Recruiters appreciate dark mode defaults
+palette = "slate" # Recruiters appreciate dark mode defaults
 
 [nav]
 items = [
