@@ -4,7 +4,7 @@ url = "https://marno-brittz.github.io/my-portfolio"
 description = "Mid-Level Mindset Junior Software Engineer | C# • Python • SQL"
 author = "John Doe"
 
-[theme]
+[project.theme]
 name = "zensical"
 palette = "dark" # Recruiters appreciate dark mode defaults
 
