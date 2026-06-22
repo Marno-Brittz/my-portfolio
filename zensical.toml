@@ -3,6 +3,7 @@ site_name = "Marno Brittz | Software Engineer"
 url = "https://marno-brittz.github.io/my-portfolio"
 description = "Mid-Level Mindset Junior Software Engineer | C# • Python • SQL"
 author = "Marno Brittz"
+base_url = "/my-portfolio/"
 
 [project.theme]
 variant = "modern"
